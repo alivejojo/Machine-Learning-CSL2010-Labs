@@ -57,4 +57,4 @@ pca2 = PCA(.95)
 pcsofX2 = pca2.fit_transform(X_scaled)
 
 pca2.n_components_ 
-# prints 40 compenents needed for 95% of vaianc
+# prints 40 compenents needed for 95% of vaiance 
